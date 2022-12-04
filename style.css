@@ -1,0 +1,68 @@
+  * {
+      box-sizing: border-box;
+  }
+
+  body {
+      overflow-x: hidden;
+  }
+
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+  .ravi {
+      text-align: center;
+      color: brown;
+  }
+
+  .card {
+      color: brown;
+  }
+
+  #id1:hover {}
+
+  #data1 {
+      background-color: burlywood;
+      color: white;
+  }
+
+  #row1{
+      background-image: url(/img/bagckground\ img.jpg);background-repeat: no-repeat; background-size: cover;
+  }
+  #devangi{
+      box-shadow: 0 5px 10px 0 rgb(0, 0, 18) 0 6px 20px 0 rgb(0, 0 , 35);
+      
+  }
+#rajan>.col-lg-4{
+    box-shadow: 0 5px 10px 0 rgb(0, 0, 0) 0 6px 20px 0 rgb(0, 0, 0);
+
+}
+.ravi:hover {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.589), 0 6px 20px 0 rgba(0, 0, 0, 0.817);
+    transition: all 0.5s linear;
+    transform: scale(1.03);
+}
+
+.ravi {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.589), 0 6px 20px 0 rgba(0, 0, 0, 0.817);
+
+}
+.colsm {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.589), 0 6px 20px 0 rgba(0, 0, 0, 0.817);
+}
+.colsm:hover {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.589), 0 6px 20px 0 rgba(0, 0, 0, 0.817);
+    transition: all 0.5s linear;
+    transform: scale(1.03);
+}
+
+.img1234{
+    background-image: url("/img2/img123.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
